@@ -9,6 +9,14 @@ This study introduces CLASP (Contrastive Language-Speech Pretraining), a multili
 
 ![](images/CLASP-panelf.png)
 
+
+## Contributions
+1. We introduce CLASP (Contrastive Language-Speech Pretraining), a novel lightweight multilingual, multimodal representation designed for audio-text retrieval.
+2. We introduce a diverse paired speech-text dataset (Speech Brown) in 15 categories, encompassing a wide range of topics from fiction to religion.
+3. We show that the combination of audio spectrograms with a pre-trained self-supervised speech model improves audio encoding in retrieval applications.
+4. Evaluations in multiple languages demonstrate that CLASP sets new benchmarks in HITS@1, Mean Reciprocal Rank (MRR), and Mean Rank (meanR) metrics.
+
+## Citations
 If you find our paper, code, data, or models useful, please cite the paper:
 ```
 @misc{abootorabi2024claspcontrastivelanguagespeechpretraining,
@@ -21,12 +29,6 @@ If you find our paper, code, data, or models useful, please cite the paper:
       url={https://arxiv.org/abs/2412.13071}, 
 }
 ```
-
-## Contributions
-1. We introduce CLASP (Contrastive Language-Speech Pretraining), a novel lightweight multilingual, multimodal representation designed for audio-text retrieval.
-2. We introduce a diverse paired speech-text dataset (Speech Brown) in 15 categories, encompassing a wide range of topics from fiction to religion.
-3. We show that the combination of audio spectrograms with a pre-trained self-supervised speech model improves audio encoding in retrieval applications.
-4. Evaluations in multiple languages demonstrate that CLASP sets new benchmarks in HITS@1, Mean Reciprocal Rank (MRR), and Mean Rank (meanR) metrics.
 
 ## Contact
 If you have questions, please send an email to mahdi.abootorabi2@gmail.com or asgari@berkeley.edu.
