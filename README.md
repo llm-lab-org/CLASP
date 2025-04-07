@@ -1,6 +1,6 @@
 # CLASP: Contrastive Language-Speech Pretraining for Multilingual Multimodal Information Retrieval
 
-This includes the original implementation of [CLASP: Contrastive Language-Speech Pretraining for Multilingual Multimodal Information Retrieval](https://arxiv.org/abs/2412.13071) (ECIR 2025) by Mohammad Mahdi Abootorabi and Ehsaneddin Asgari.
+This includes the original implementation of [CLASP: Contrastive Language-Speech Pretraining for Multilingual Multimodal Information Retrieval](https://arxiv.org/abs/2412.13071) ([ECIR 2025](https://link.springer.com/chapter/10.1007/978-3-031-88717-8_2)) by Mohammad Mahdi Abootorabi and Ehsaneddin Asgari.
 
 [Models](https://huggingface.co/llm-lab/CLASP) | [Paper](https://arxiv.org/abs/2412.13071) | [Proposed Dataset](https://huggingface.co/datasets/llm-lab/SpeechBrown)
 
